@@ -8,7 +8,7 @@
         class="p-3 my-4 hover:p-2.5 text-sm transition-all duration-150 bg-white hover:bg-white/40 hover:border-2 hover:border-white/20 backdrop-blur-md rounded-full flex flex-row items-baseline gap-2 float-left"
         to="/achivements"
       >
-        <p>受賞一覧を見る</p>
+        <p>実績一覧を見る</p>
         <i class="fa-solid fa-angle-right"></i>
       </NuxtLink>
     </div>
