@@ -7,6 +7,12 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
+  runtimeConfig: {
+    public: {
+      apiKey: "",
+      serviceDomain: ""
+    }
+  },
   app: {
     head: {
       script: [
