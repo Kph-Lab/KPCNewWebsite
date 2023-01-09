@@ -29,6 +29,9 @@ export default defineNuxtConfig({
       ],
       script: [
         {src:"https://kit.fontawesome.com/9f3463b573.js", crossorigin:"anonymous"}
+      ],
+      link: [
+        {rel: "icon", href: "/image/favicon/256.png", sizes: "any", type: "image/png"}
       ]
     }
   }
