@@ -1,7 +1,7 @@
 <template>
   <div class="max-w-2xl mx-auto px-4">
     <h1 class="text-6xl font-bold text-center mt-32 drop-shadow-lg">Articles</h1>
-    <p class="text-center">ぶつりぶのきじいちらんぺーじだよ</p>
+    <p class="text-center">部員が書いた幅広い分野の記事です</p>
     <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-4">
       <NuxtLink
         class="bg-white/40 border-white/20 border-2 p-2 rounded-xl flex flex-col gap-2"

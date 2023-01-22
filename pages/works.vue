@@ -1,7 +1,7 @@
 <template>
   <div class="max-w-2xl mx-auto px-4">
     <h1 class="text-6xl font-bold text-center mt-32 drop-shadow-lg">Works</h1>
-    <p class="text-center">ぶつりぶのさくひんしょうかいぺーじだよ</p>
+    <p class="text-center">部員が作成したさまざまな作品の紹介ページです</p>
     <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-4">
       <div
         class="p-2 bg-white/40 border-2 border-white/20 rounded-2xl flex flex-col gap-2"

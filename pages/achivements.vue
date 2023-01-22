@@ -1,7 +1,7 @@
 <template>
   <div class="max-w-2xl mx-auto px-4">
     <h1 class="text-6xl font-bold text-center mt-32 drop-shadow-lg">Achivements</h1>
-    <p class="text-center">ぶつりぶのさくひんしょうかいぺーじだよ</p>
+    <p class="text-center">部員がこれまでにとった実績の一覧です</p>
     <div class="grid grid-cols-1 gap-4 mt-4">
       <div
         v-for="achivement in achivements"
@@ -23,8 +23,8 @@ export default {
   data(){return{
     achivements: [
       {
-        name: "なんかの大会",
-        who: "受賞者A・受賞者B"
+        name: "学力向上アプリコンテスト2022 奨励賞",
+        who: "丹下稔大"
       }
     ]
   }}
